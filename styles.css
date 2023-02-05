@@ -6,3 +6,14 @@ available in the app when your plugin is enabled.
 If your plugin does not need CSS, delete this file.
 
 */
+.markdown-modal {
+	height: 80vh;
+}
+
+.markdown-modal .workspace-leaf {
+	height: 100%;
+}
+
+.markdown-modal .markdown-preview-view {
+	overflow-y: hidden;
+}
